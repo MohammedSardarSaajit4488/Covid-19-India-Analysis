@@ -7,7 +7,7 @@ This project utilizes Tableau to analyze and visualize data related to Covid-19 
 
 ## Dashboard Preview
 
-![Dashboard Image](link_to_your_image_file)
+![Dashboard Image](https://github.com/MohammedSardarSaajit4488/Covid-19-India-Analysis/blob/main/Covid-19%20DV%20project/Dashboard.png)
 
 ## Project File
 - **File Name:** ProjectFile.twb
